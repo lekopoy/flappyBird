@@ -1,5 +1,7 @@
 # Flappy bird
 
+![Gameplay](images/gameplay.png)
+
 This is a small Flappy Bird remake project coded in python, I coded this since 
 I've seen other people make Flappy Bird and wanted to give it a go. I also made it as a 
 practice project for my friends who could learn from a project like this.
