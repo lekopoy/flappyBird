@@ -19,8 +19,6 @@ The original license for the assets is included in the `assets/` folder.
 Install the required dependencies:
 
 ```bash
-winget install --id Python.Python.3.13 --version 3.13.3
-
 pip install -r requirements.txt
 ```
 
