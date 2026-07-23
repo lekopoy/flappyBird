@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## Gameplay
 
-The game features the classic flappy bird gameplay with a few differences, the jumping feels more natural and smooth, and the hitboxes are smaller and more forgiving. These work together to make a more enjoyable and playable game. The max score you can achieve is 999 and the pipes speed change to a formula(increasing overtime) after the 20th pipe. Can you make it to the end?
+The game features the classic flappy bird gameplay with a few differences, the jumping feels more natural and smooth, and the player hitbox is smaller and more forgiving. These work together to make a more enjoyable and playable game. The max score you can achieve is 999 and the pipes speed change to a formula(increasing overtime) after the 20th pipe. Can you make it to the end?
 
 ### Controls:
 
